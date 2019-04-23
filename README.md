@@ -1,4 +1,4 @@
-# 
+# Hướng dẫn dùng Channels tạo ứng dụng real-time trong Django
 
 <a target="_blank" href=""><img src="" alt="" /></a>
 
@@ -18,7 +18,7 @@ $ git clone
 Cài đặt requirements:
 
 ```bash
-$ cd answerly
+$ cd new-user-channels
 $ pip install -r requirements.txt
 ```
 
