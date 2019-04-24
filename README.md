@@ -12,14 +12,14 @@
 Đầu tiên, tải repository về máy tính:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/batTrung/new-user-channels.git
 ```
 
 Cài đặt requirements:
 
 ```bash
 $ cd new-user-channels
-$ pip install -r requirements.txt
+$ source env/bin/activate 
 ```
 
 Tạo database:
